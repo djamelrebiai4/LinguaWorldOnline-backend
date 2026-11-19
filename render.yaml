@@ -1,0 +1,27 @@
+services:
+  - type: web
+    env: node
+    name: lexiexplorer-backend
+    region: frankfurt
+    plan: starter
+    buildCommand: "npm install && npm run build"
+    startCommand: "npm start"
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 3000
+      - key: FRONTEND_ORIGIN
+        value: https://your-frontend.vercel.app
+      - key: AUTHORIZED_DOMAINS
+        value: https://your-frontend.vercel.app
+      - key: SUPABASE_URL
+        value: https://your-project.supabase.co
+      - key: SUPABASE_SECRET_KEY
+        sync: false
+      - key: SUPABASE_JWT_SECRET
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GROQ_MODEL
+        value: openai/gpt-oss-20b

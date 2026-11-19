@@ -1,0 +1,60 @@
+{
+  "scores": [
+    {
+      "game": "tag",
+      "playerKey": "gast-c7deeb33-4b10-4dce-8b66-da6024991430",
+      "name": "Ben",
+      "score": 1,
+      "date": "2026-11-19",
+      "timestamp": 1795093414790
+    },
+    {
+      "game": "hide",
+      "playerKey": "gast-98978702-b602-47b1-aefe-f8f6074c8f1a",
+      "name": "Clara",
+      "score": 1,
+      "date": "2026-11-19",
+      "timestamp": 1795093438893
+    },
+    {
+      "game": "hide",
+      "playerKey": "gast-476ec800-daa7-4dae-a6ad-731175a5e5d4",
+      "name": "David",
+      "score": 0,
+      "date": "2026-11-19",
+      "timestamp": 1795093438894
+    },
+    {
+      "game": "hunt",
+      "playerKey": "gast-65525a85-58c0-4b88-8076-51c36ad19cbe",
+      "name": "Gast-9556",
+      "score": 0,
+      "date": "2026-11-19",
+      "timestamp": 1795093684997
+    },
+    {
+      "game": "tag",
+      "playerKey": "gast-68d90cb0-22f4-4639-96d7-93c7f8f016a0",
+      "name": "Gast-1173",
+      "score": 0,
+      "date": "2026-11-19",
+      "timestamp": 1795101176978
+    },
+    {
+      "game": "tag",
+      "playerKey": "gast-22c8720d-6d60-4344-8cc2-3e2ff2d9c4d6",
+      "name": "Gast-1173",
+      "score": 0,
+      "date": "2026-11-19",
+      "timestamp": 1795101176978
+    },
+    {
+      "game": "hide",
+      "playerKey": "gast-68d90cb0-22f4-4639-96d7-93c7f8f016a0",
+      "name": "Gast-1173",
+      "score": 0,
+      "date": "2026-11-19",
+      "timestamp": 1795101366856
+    }
+  ]
+}

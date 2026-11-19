@@ -1,0 +1,1 @@
+{"version":3,"file":"domain-guard.d.ts","sourceRoot":"","sources":["../../src/middleware/domain-guard.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,YAAY,EAAE,MAAM,SAAS,CAAC;AAI1D;;;;;;GAMG;AACH,eAAO,MAAM,WAAW,GACtB,KAAK,OAAO,EACZ,KAAK,QAAQ,EACb,MAAM,YAAY,KACjB,OAAO,CAAC,IAAI,CAmDd,CAAC;AAEF,eAAO,MAAM,eAAe,GAAI,KAAK,OAAO,KAAG,MAAM,GAAG,IAmBvD,CAAC"}
